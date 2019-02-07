@@ -50,31 +50,21 @@ Ctrl + Enter
 Shift + Enter
 ```
 
-### Hyperparameters
-
-Hyperparameter          | Number |
------------------------ | ------ |
-Epochs                  | 10     |
-Batch size              | 512    |
-RNN size                | 128    |
-LSTM layers             | 2      |
-Encoding embedding size | 128    |
-Decoding embedding size | 128    |
-Learning rate           | 0.001  |
-Keep probability        | 0.55   |
 
 ## Observations
 
-1. better model performance with 91% validation accuracy.  
-2. Sample output  
-
- - Input  
-    - Word Ids:      [120, 172, 10, 36, 151, 179, 186]  
-    - English Words: ['he', 'saw', 'a', 'old', 'yellow', 'truck', '.']  
-
- - Prediction  
-   - Word Ids:      [182, 99, 65, 195, 282, 5, 243, 69, 1]  
-   - French Words: il a de visiter le camion automne . <EOS>  
+### Conclusions from the exploratory data analysis
+- Most of the People that Left were the Ones who had Month-to-Month Contract
+- Most of the people That Left had Fiber Optic Internet-Service.
+- Most of the People that Were Partner will Stay Longer with The Company. So Being a Partner is a Plus-Point For the Company as they  
+  will Stay Longer with Them.
+- Prediction accuracy for churn prediction
+   - Logistic Regression : 80.98 %
+   - Gradient Boosting Trees : 80.64 %
+   - Random Forest : 79.44 %
+   - KNN : 76.66 %
+   - Naive Bayes : 73.99 %
+   - Decision Tree : 73.65 %
 
 
 ### Author: Sanjeev kumar
