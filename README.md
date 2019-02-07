@@ -56,8 +56,7 @@ Shift + Enter
 ### Conclusions from the exploratory data analysis
 - Most of the People that Left were the Ones who had Month-to-Month Contract
 - Most of the people That Left had Fiber Optic Internet-Service.
-- Most of the People that Were Partner will Stay Longer with The Company. So Being a Partner is a Plus-Point For the Company as they  
-  will Stay Longer with Them.
+- Most of the People that Were Partner will Stay Longer with The Company. So Being a Partner is a Plus-Point For the Company as they will Stay Longer with Them.
 - Prediction accuracy for churn prediction
    - Logistic Regression : 80.98 %
    - Gradient Boosting Trees : 80.64 %
