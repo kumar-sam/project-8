@@ -10,7 +10,7 @@ This data set provides info to help you predict behavior to retain customers. Yo
 
 A telecommunications company is concerned about the number of customers leaving their landline business for cable competitors. They need to understand who is leaving. Imagine that you’re an analyst at this company and you have to find out who is leaving and why.
 
->The data set includes information about:
+- The data set includes information about:
 
   - Customers who left within the last month – the column is called Churn
   - Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection,     tech support, and streaming TV and movies
