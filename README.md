@@ -9,7 +9,7 @@ The problem statment is to
 1. Simply open the notebook file (dlnd_language_translation_acad.ipynb) in the project by clicking it. 
 2. If it is showing any error, may be bacause of slow intenet or other issue open the below link
  
-      [https://nbviewer.jupyter.org/github/kumar-sam/project-8/blob/master/preventing_customer_from_unscribing_a_telecom_plan.ipynb](https://nbviewer.jupyter.org/github/kumar-sam/project-8/blob/master/preventing_customer_from_unscribing_a_telecom_plan.ipynb) 
+      Click here [Project link](https://nbviewer.jupyter.org/github/kumar-sam/project-8/blob/master/preventing_customer_from_unscribing_a_telecom_plan.ipynb) 
 
 ## Installation
 To run this project, following library need to be installed inside a local virtual environment
