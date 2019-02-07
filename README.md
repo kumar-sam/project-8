@@ -1,11 +1,15 @@
-# Language Translator (English - French)
-This project uses sequence to sequence model of recurrent neural network to translate any piece of English text to French. I have used recurrent nets because while training on huge data, recurrent nets actually predict the outcome a lot better than any normal machine learning models. In this specific model, the data first passes through an encoder, comes out as an understanding and passes to a decoder. The decoder generates the output.
+# Project on churn Prediction of telecom customers
+We have the customer data for a telecom company which offers many services like phone, internet, TV Streaming and Movie Streaming.
+
+The problem statment is to 
+1. Find the Best model that predict the behavior to retain customers.
+2. Analyze all relevant customer data and develop focused customer retention programs.
 
 ## How to view the project
 1. Simply open the notebook file (dlnd_language_translation_acad.ipynb) in the project by clicking it. 
 2. If it is showing any error, may be bacause of slow intenet or other issue open the below link
  
-      [https://nbviewer.jupyter.org/github/kumar-sam/project-7/blob/master/dlnd_language_translation_acad.ipynb](https://nbviewer.jupyter.org/github/kumar-sam/project-7/blob/master/dlnd_language_translation_acad.ipynb) 
+      [https://nbviewer.jupyter.org/github/kumar-sam/project-8/blob/master/preventing_customer_from_unscribing_a_telecom_plan.ipynb](https://nbviewer.jupyter.org/github/kumar-sam/project-8/blob/master/preventing_customer_from_unscribing_a_telecom_plan.ipynb) 
 
 ## Installation
 To run this project, following library need to be installed inside a local virtual environment
@@ -14,7 +18,9 @@ To run this project, following library need to be installed inside a local virtu
 conda install numpy
 conda install pandas
 conda install matplotlib
-conda install tensorflow
+```
+```
+!pip install xgboost
 ```
 ## Running the project
 To run this project, first download the notebook file(.ipynb) and extract it. Then set up your conda virtual environment. You may take help from interet for how to setup conda virtual environment.
