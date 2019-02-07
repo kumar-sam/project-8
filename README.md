@@ -67,4 +67,3 @@ Shift + Enter
 
 
 ### Author: Sanjeev kumar
-#### *** This project is strictly for learning purposes only. ***
